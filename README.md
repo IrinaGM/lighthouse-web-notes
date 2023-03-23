@@ -1,2 +1,5 @@
 # [Irina]'s Notes
-goit 
+
+## Summary
+
+This repository contains all of the notes taken by [Irina](https://github.com/IrinaGM) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
